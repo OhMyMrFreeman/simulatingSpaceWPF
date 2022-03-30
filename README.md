@@ -1,4 +1,4 @@
-#Space Simulation#
+# Space Simulation
 
 Hello, this code is written to simulate gravity between planets. Also here you can see how I was able to implement a simulation for N-body.
 
